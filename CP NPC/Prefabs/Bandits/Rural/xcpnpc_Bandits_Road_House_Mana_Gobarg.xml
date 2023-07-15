@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="TraderArea" value="False" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DifficultyTier" value="3" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="YOffset" value="-1" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="EditorGroups" value="rural" />
+  <property name="ShowQuestClearCount" value="2" />
+  <property name="Zoning" value="Rural, ResidentialOld" />
+  <property name="AllowedBiomes" value="pine_forest,desert" />
+  <property name="AllowedTownships" value="rural" />
+  <property name="Tags" value="snow,rural,pine_forest,npc,whiteriver" />
+  <property name="PrefabSize" value="100, 21, 100" />
+  <property name="POIMarkerSize" value="44, 13, 3#44, 13, 3" />
+  <property name="POIMarkerStart" value="0, 0, -3#56, 0, -3" />
+  <property name="POIMarkerGroup" value="1,2" />
+  <property name="POIMarkerTags" value="#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_11,part_driveway_rural_11" />
+  <property name="POIMarkerPartRotations" value="2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="SleeperVolumeSize" value="14, 3, 16#20, 3, 13#14, 3, 16#26, 3, 25#34, 3, 34#52, 3, 22#15, 3, 18#30, 3, 30#18, 3, 15#20, 3, 13#19, 3, 15" />
+  <property name="SleeperVolumeStart" value="61, 1, 84#41, 1, 86#35, 2, 44#37, 6, 45#33, 6, 41#26, 1, 2#42, 1, 25#35, 2, 43#65, 1, 50#39, 1, 73#16, 1, 51" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_NPC_FriendlyAnimals_All,2,2,S_-Group_NPC_Friendly_All,1,2,S_-Group_NPC_Whiteriver_Melee,1,2,S_-Group_NPC_Whiteriver_Boss,2,2,S_-Group_NPC_Whiteriver_Ranged,3,3,S_-Group_NPC_Whiteriver_All,1,2,S_-Group_NPC_Whiteriver_Melee,1,2,S_-Group_NPC_Whiteriver_All,10,10,S_-Group_NPC_Whiteriver_Melee,1,2,S_-Group_NPC_Whiteriver_All,1,2,S_-Group_NPC_Whiteriver_Melee,5,6" />
+  <property name="SleeperIsLootVolume" value="False,False,True,True,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,2,0,2,2,2" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
+  <property name="QuestTags" value="pine_forest, desert" />
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="86, 1, 87" />
+      <property name="1" value="93, 1, 89" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="50, 8, 66" />
+      <property name="1" value="53, 6, 66" />
+      <property name="2" value="55, 8, 66" />
+      <property name="3" value="59, 8, 66" />
+      <property name="4" value="61, 6, 66" />
+      <property name="5" value="55, 4, 67" />
+      <property name="6" value="59, 4, 67" />
+      <property name="7" value="51, 8, 71" />
+      <property name="8" value="56, 8, 71" />
+      <property name="9" value="58, 8, 71" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="50, 1, 91" />
+      <property name="1" value="56, 1, 91" />
+      <property name="2" value="57, 1, 92" />
+      <property name="3" value="57, 1, 94" />
+      <property name="4" value="55, 1, 96" />
+      <property name="5" value="57, 1, 96" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="67, 1, 97" />
+    </property>
+  </property>
+  <property class="Stats">
+    <property name="TotalVertices" value="961872" />
+    <property name="TotalTriangles" value="503430" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="788810" />
+      <property name="Triangles" value="380470" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="144930" />
+      <property name="Triangles" value="81300" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="1200" />
+      <property name="Triangles" value="600" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="1152" />
+      <property name="Triangles" value="576" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="25780" />
+      <property name="Triangles" value="40484" />
+    </property>
+  </property>
+</prefab>

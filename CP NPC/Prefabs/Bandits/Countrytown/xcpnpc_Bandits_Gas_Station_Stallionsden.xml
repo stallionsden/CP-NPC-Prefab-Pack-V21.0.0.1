@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="DifficultyTier" value="2" />
+  <property name="ShowQuestClearCount" value="2" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="42, 16, 42" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="10, 13, 2#10, 13, 2" />
+  <property name="POIMarkerStart" value="31, 1, 42#1, 1, 42" />
+  <property name="POIMarkerGroup" value="Driveway 1,Driveway 2" />
+  <property name="POIMarkerTags" value="#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_10,part_driveway_countrytown_10" />
+  <property name="POIMarkerPartRotations" value="0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="SleeperVolumeSize" value="31, 5, 15#7, 3, 5#7, 3, 15#22, 3, 23#15, 3, 6#40, 3, 15#9, 7, 15" />
+  <property name="SleeperVolumeStart" value="1, 6, 2#24, 2, 3#24, 2, 9#2, 2, 2#5, 2, 3#1, 2, 25#32, 2, 0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_NPC_Bandits_All,3,3,S_-Group_NPC_Bandits_All,2,2,S_-Group_NPC_Bandits_All,1,2,S_-Group_NPC_Bandits_All,5,6,S_-Group_NPC_Bandits_All,1,2,S_-Group_NPC_Bandits_All,2,3,S_-Group_NPC_Bandits_Ranged,1,2" />
+  <property name="SleeperIsLootVolume" value="False,True,True,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,2" />
+  <property name="YOffset" value="-2" />
+  <property name="Tags" value="snow,desert,countrytown,pine_forest,bandit,nodiagonal,enemy,npc" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
+  <property name="TriggerVolumeSize" value="7, 1, 5" />
+  <property name="TriggerVolumeStart" value="11, 2, 23" />
+  <property name="TriggerVolumeTriggers" value="1" />
+  <property class="Stats">
+    <property name="TotalVertices" value="947353" />
+    <property name="TotalTriangles" value="343310" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="864091" />
+      <property name="Triangles" value="284637" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="77782" />
+      <property name="Triangles" value="50477" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="424" />
+      <property name="Triangles" value="212" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="5056" />
+      <property name="Triangles" value="7984" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="23, 6, 37" />
+      <property name="1" value="26, 6, 37" />
+      <property name="2" value="30, 6, 37" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="1, 2, 41" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="37, 6, 22" />
+    </property>
+  </property>
+</prefab>
