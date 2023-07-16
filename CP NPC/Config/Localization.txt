@@ -1,6 +1,0 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
-xcpnpc_Bandits_Gas_Station_Stallionsden,POI,POIName,,x,Ripoffs Gas Station,,,,,,,,,,,,,
-xcpnpc_Bandits_House_Stallionsden,POI,POIName,,x,Bandits Residents,,,,,,,,,,,,,
-xcpnpc_Bandits_Bunny_Ranch_Stallionsden,POI,POIName,,x,The Bunny Ranch,,,,,,,,,,,,,
-xcpnpc_Bandits_Road_House_Mana_Gobarg,POI,POIName,,x,Road House,,,,,,,,,,,,,
-xcpnpc_Shanty_Town_EvilRacc0on,POI,POIName,,x,Shanty Town,,,,,,,,,,,,,    
